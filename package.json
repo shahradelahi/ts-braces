@@ -1,6 +1,6 @@
 {
   "name": "@se-oss/braces",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "High-performance, V8-safe numeric and alphabetical range expander and regex compiler",
   "keywords": [
     "braces",
